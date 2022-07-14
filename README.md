@@ -5,16 +5,22 @@
 
 ### 👨🏽‍💻 &nbsp;About Me :
 
-I am a Full Stack Developer from Munich, Germany.
+I am a Full Stack Developer from Munich, Germany
 
-- 🔭 I’m working as a Software Engineer at <a href="https://www.certivity.io/">Certivity</a>.
-- 🌱 while doing my Master of Computer Science at the <a href="https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/">Technical University of Munich</a>.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 Let's connect: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnoclaude/)
+- 👨🏽‍💻 working as a Software Engineer at <a href="https://www.certivity.io/">Certivity</a>,
+- 🧑🏾‍🎓 while doing my Master of Computer Science at the <a href="https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/">Technical University of Munich</a>.
+
+<br>
+
+📩 Feel free to reach out to me on <a href="https://www.linkedin.com/in/arnoclaude/">LinkedIn</a> or via <a href="mailto:arno.claude@googlemail.com">Email</a>!
+
+<br>
+
+🔖 Have a look at my <a href="https://github.com/ArnoClaude/resume/blob/master/Arno_Claude_Resume.pdf">CV</a>!
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Those are my favourite languages and tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -34,18 +40,3 @@ I am a Full Stack Developer from Munich, Germany.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
