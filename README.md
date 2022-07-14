@@ -8,15 +8,15 @@
 I am a Full Stack Developer from Munich, Germany
 
 - 👨🏽‍💻 working as a Software Engineer at <a href="https://www.certivity.io/">Certivity</a>,
-- 🧑🏾‍🎓 while doing my Master of Computer Science at the <a href="https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/">Technical University of Munich</a>.
+- 🧑🏾‍🎓 while doing my Master of Computer Science at the <a href="https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/" target="_blank">Technical University of Munich</a>.
 
 <br>
 
-📩 Feel free to reach out to me on <a href="https://www.linkedin.com/in/arnoclaude/">LinkedIn</a> or via <a href="mailto:arno.claude@googlemail.com">Email</a>!
+📩 Feel free to reach out to me on <a href="https://www.linkedin.com/in/arnoclaude/" target="_blank">LinkedIn</a> or via <a href="mailto:arno.claude@googlemail.com" target="_blank">Email</a>!
 
 <br>
 
-🔖 Have a look at my <a href="https://github.com/ArnoClaude/resume/blob/master/Arno_Claude_Resume.pdf">CV</a>!
+🔖 Have a look at my <a href="https://github.com/ArnoClaude/resume/blob/master/Arno_Claude_Resume.pdf" target="_blank">CV</a>!
 
 ---
 
