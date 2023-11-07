@@ -14,10 +14,6 @@ I am a Full Stack Developer from Munich, Germany
 
 📩 Feel free to reach out to me on <a href="https://www.linkedin.com/in/arnoclaude/" target="_blank">LinkedIn</a> or via <a href="mailto:arno.claude@googlemail.com" target="_blank">Email</a>!
 
-<br>
-
-🔖 Have a look at my <a href="https://github.com/ArnoClaude/resume/blob/master/Arno_Claude_Resume.pdf" target="_blank">CV</a>!
-
 ---
 
 ### 🛠 &nbsp;These are my favourite languages and tools :
