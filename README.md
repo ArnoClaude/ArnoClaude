@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Arno!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### 👨🏽‍💻 &nbsp;About Me :
+### 👨🏽‍💻 &nbsp;About Me
 
 I'm a Full Stack Developer from Munich, Germany,
 
