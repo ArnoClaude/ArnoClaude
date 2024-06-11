@@ -5,10 +5,10 @@
 
 ### 👨🏽‍💻 &nbsp;About Me :
 
-I am a Full Stack Developer from Munich, Germany
+I'm a Full Stack Developer from Munich, Germany,
 
 - 👨🏽‍💻 working as a Software Engineer at <a href="https://www.certivity.io/">Certivity</a>,
-- 🧑🏾‍🎓 while doing my Master of Computer Science at the <a href="https://www.in.tum.de/en/in/for-prospective-students/masters-programs/informatics/" target="_blank">Technical University of Munich</a>.
+- 🧑🏾‍🎓 while doing my Master of Computer Science at the <a href="https://www.tum.de/studium/studienangebot/detail/informatik-master-of-science-msc" target="_blank">Technical University of Munich</a>.
 
 <br>
 
